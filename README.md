@@ -138,4 +138,4 @@ The tool works with any bare-earth DEM. Recommended sources:
 
 Kaitlyn Rawlings  
 GIS Analyst | Environmental Studies, University of Kansas  
-[GitHub](https://github.com/yourusername)
+[GitHub](https://github.com/kaitlynrawlings-creator)
