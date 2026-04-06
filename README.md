@@ -64,6 +64,12 @@ Runs an ArcGIS Fill analysis on the clipped DEM to find all natural terrain depr
 **With observed depth:**
 Sets the water surface at the minimum terrain elevation within the drawn polygon plus the entered depth. Calculates volume below that water surface. Use this mode when you are standing next to a specific flooded depression and can observe the water depth directly.
 
+**No observed depth — terrain Fill analysis:**
+![No observed depth run](images/no_observed_depth_run.png)
+
+**With 4 inches observed depth:**
+![4 inches observed depth run](images/4inches_observed.png)
+
 ---
 
 ## Methodology
