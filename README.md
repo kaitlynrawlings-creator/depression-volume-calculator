@@ -146,6 +146,3 @@ Kaitlyn Rawlings
 GIS Analyst | Environmental Studies, University of Kansas  
 [GitHub](https://github.com/Kaitlyn-rawlings)
 
-## Acknowledgments
-
-This toolbox was developed collaboratively with Claude, an AI assistant by Anthropic (claude.ai, 2026). Claude assisted with script development, debugging, volume calculation methodology, and documentation. All analytical decisions, parameter selection, tool behavior, and results were reviewed and validated by the author.
